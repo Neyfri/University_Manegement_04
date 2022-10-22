@@ -4,7 +4,6 @@ E:\AA_SolucionesSoftware\University_Management\University_Management\bin\Debug\U
 E:\AA_SolucionesSoftware\University_Management\University_Management\bin\Debug\Guna.UI2.dll
 E:\AA_SolucionesSoftware\University_Management\University_Management\obj\Debug\University_Management.csproj.AssemblyReference.cache
 E:\AA_SolucionesSoftware\University_Management\University_Management\obj\Debug\University_Management.csproj.SuggestedBindingRedirects.cache
-E:\AA_SolucionesSoftware\University_Management\University_Management\obj\Debug\University_Management.Form1.resources
 E:\AA_SolucionesSoftware\University_Management\University_Management\obj\Debug\University_Management.Properties.Resources.resources
 E:\AA_SolucionesSoftware\University_Management\University_Management\obj\Debug\University_Management.csproj.GenerateResource.cache
 E:\AA_SolucionesSoftware\University_Management\University_Management\obj\Debug\University_Management.csproj.CoreCompileInputs.cache
@@ -17,3 +16,5 @@ E:\AA_SolucionesSoftware\University_Management\University_Management\obj\Debug\U
 E:\AA_SolucionesSoftware\University_Management\University_Management\obj\Debug\University_Management.Students.resources
 E:\AA_SolucionesSoftware\University_Management\University_Management\obj\Debug\University_Management.Colleges.resources
 E:\AA_SolucionesSoftware\University_Management\University_Management\obj\Debug\University_Management.Fees.resources
+E:\AA_SolucionesSoftware\University_Management\University_Management\obj\Debug\University_Management.Home.resources
+E:\AA_SolucionesSoftware\University_Management\University_Management\obj\Debug\University_Management.Login.resources

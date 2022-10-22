@@ -175,7 +175,7 @@
         4ME4HB3SpC5t/qwjE2mVB/G++uqrazUa/wJtTR8lwGzpuQAAAABJRU5ErkJggg==
 </value>
   </data>
-  <data name="guna2Button1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="btnDepartment.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAAAcxJREFUaEPt
         mTEuRVEURR8aGqVCS69hAuag0puCKWiVpmAKKhQmoNIYgFI0EmHvRPWyzzn29f7/V7yVrET+X/ve+2vD
@@ -188,7 +188,7 @@
         xRAVt1ihNi2GqLjFCrVpMWSq/49UqI3rLZyZmfkRw/AFOYEbeR6YLb4AAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="guna2Button6.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="btnColleges.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAABChJREFUaEPt
         mVvITlkYxz+HxqGZaBCNcqqZyGGSC4ecwtUQJYZx4VgzLsapHEKkuFAoSpkZNCgpNVwYNZMLlAsXI6lB
@@ -211,7 +211,7 @@
         YkgFRU2kkvp/J+Ja4aaumjCmohLxP0VZjqoBY6upppqKUl3df8Wyf0KCwxeGAAAAAElFTkSuQmCC
 </value>
   </data>
-  <data name="guna2Button5.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="btnSalary.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAAAftJREFUaEPt
         2D1IHEEYh/FLEYxFxJDGRixtLKxSWxpJUAsVO79QC0lSBZtUCaQRtRUEQUFsxcrOr0ZQQgoLq/gBNgaM
@@ -225,7 +225,7 @@
         YvG4B9Fztg6MidaUSqVSD75S6T/91eCGBqHn1gAAAABJRU5ErkJggg==
 </value>
   </data>
-  <data name="guna2Button4.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="btnFees.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAABE5JREFUaEPt
         2WeIJEUYh/E153yiCGbMgTOnL6J+MEdExYSY7swYQIwoKipmUDFHFBUVFFFR/KAYMIvhuBM9UQyYMOf0
@@ -249,7 +249,7 @@
         7US4uN2lS5cu/+sMDPwDTm0EHzlTLlQAAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="guna2Button3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="btnCourses.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAAAqxJREFUaEPt
         2Umoj2EUx/G/IbJAFhIWl4UylKSQqSwUspCFzGJjyEpcd3kLReKyYEexIGVISqaFBUVYycKQjY2MCzIn

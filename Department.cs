@@ -105,5 +105,62 @@ namespace University_Management
                 }
             }
         }
+
+        private void btnStudent_Click(object sender, EventArgs e)
+        {
+            Students Obj = new Students();
+            Obj.Show();
+            this.Hide();
+        }
+
+        private void btnProf_Click(object sender, EventArgs e)
+        {
+            Professor Obj = new Professor();
+            Obj.Show();
+            this.Hide();
+        }
+
+        private void btnHome_Click(object sender, EventArgs e)
+        {
+            Home Obj = new Home();
+            Obj.Show();
+            this.Hide();
+        }
+
+        private void guna2Button3_Click(object sender, EventArgs e)
+        {
+            Courses Obj = new Courses();
+            Obj.Show();
+            this.Hide();
+        }
+
+        private void guna2Button4_Click(object sender, EventArgs e)
+        {
+            Fees Obj = new Fees();
+            Obj.Show();
+            this.Hide();
+        }
+
+        private void guna2Button5_Click(object sender, EventArgs e)
+        {
+            Fees Obj = new Fees();
+            Obj.Show();
+            this.Hide();
+        }
+
+        private void guna2Button6_Click(object sender, EventArgs e)
+        {
+            Colleges Obj = new Colleges();
+            Obj.Show();
+            this.Hide();
+        }
+
+        private void btnLogout_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Do You want Logout now?", "Message", MessageBoxButtons.YesNo, MessageBoxIcon.Asterisk) == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+        }
     }
 }
